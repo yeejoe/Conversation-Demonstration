@@ -1,0 +1,6 @@
+framework module Pods_Newsoft_iOS_Test_Newsoft_iOS_TestUITests {
+  umbrella header "Pods-Newsoft iOS Test-Newsoft iOS TestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
